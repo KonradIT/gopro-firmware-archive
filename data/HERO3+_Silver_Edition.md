@@ -30,4 +30,6 @@
 	  * Other improvements and bug fixes
 	
 	
-				
+### Older firmwares not covered by the GitHub actions:
+
+Use [Softpedia](https://drivers.softpedia.com/dyn-search.php?search_term=Hero3+Silver&p_category=2)

@@ -27,6 +27,4 @@
 	
 	  * Improves the connectivity experience when the camera transitions between iOS and Android devices
 	  * Improves tuning for image quality
-	
-	
-				
+

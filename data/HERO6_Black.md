@@ -10,5 +10,7 @@
 	
 	  * Lets you use your GoPro with the Rechargeable Battery (HERO8 Black / HERO7 Black / HERO6 Black / HERO5 Black / HERO 2018). 
 	
-	
-				
+
+### Older firmwares not covered by the GitHub actions:
+
+Use [Softpedia](https://drivers.softpedia.com/dyn-search.php?search_term=Hero6&p_category=2)

@@ -16,7 +16,7 @@ class Firmware:
     DownloadURL: str
 
     def get_safe_name(self):
-        return self.Name.replace(" ", "_").replace("(", "").replace(")","")
+        return self.Name.replace(" ", "_").replace("(", "").replace(")", "")
 
     def get_as_upload_payload(self) -> BytesIO:
         response = requests.get(self.DownloadURL)
@@ -26,6 +26,7 @@ class Firmware:
     def get_firmware_size(self) -> int:
         response = requests.head(self.DownloadURL)
         return int(response.headers.get("Content-Length"))
+
 
 class FirmwareCatalog:
     def __init__(

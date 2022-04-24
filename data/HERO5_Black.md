@@ -15,4 +15,6 @@
 	HERO5 Black / HERO 2018).
 	
 	
-				
+### Older firmwares not covered by the GitHub actions:
+
+Use [Softpedia](https://drivers.softpedia.com/dyn-search.php?search_term=Hero5+Black&p_category=2)

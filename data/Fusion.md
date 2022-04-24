@@ -17,6 +17,7 @@
 	  * Updated LED behavior
 	
 	GENERAL IMPROVEMENTS + BUG FIXES
-	
-	
-				
+
+### Older firmwares not covered by the GitHub actions:
+
+Use [Softpedia](https://drivers.softpedia.com/dyn-search.php?search_term=fusion&p_category=2)

@@ -11,4 +11,6 @@
 	  * General bug fixes
 	
 	
-				
+### Older firmwares not covered by the GitHub actions:
+
+Use [Softpedia](https://drivers.softpedia.com/dyn-search.php?search_term=Hero8&p_category=2)

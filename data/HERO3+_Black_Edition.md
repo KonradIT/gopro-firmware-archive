@@ -29,5 +29,6 @@
 	  * Mac users only: Addresses issues with importing after updating to the OS X ® 10.10.3 supplemental update
 	  * Other improvements and bug fixes
 	
-	
-				
+### Older firmwares not covered by the GitHub actions:
+
+Use [Softpedia](https://drivers.softpedia.com/dyn-search.php?search_term=Hero3+Black&p_category=2)

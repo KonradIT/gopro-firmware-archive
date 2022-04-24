@@ -25,5 +25,11 @@
 	  * Fixes incorrect Scheduled Capture count down display on HDMI
 	  * General bug fixes and other user interface improvements
 	
-	
-				
+
+### Older firmwares not covered by the GitHub actions:
+
+- **v1.10**: [MEGA](https://mega.nz/file/M9VQyLgY#oGHzQibXDV-9aZ-LD-_gQAgUK6F4ykhr67l8YkQnM1M)
+- **v1.15**: [MEGA](https://mega.nz/file/Ig0CVCbY#EFKQYKB8ui0d-iHAqTCTQuln_LMY1IlnVrV5AlqEUr8)
+- **v1.16**: [MEGA](https://mega.nz/file/BxVylb7L#_urtwJa2e6enIvYSKUWjfo9OnxXJcqYOC3de6haVC4w)
+- **v1.20**: [MEGA](https://mega.nz/file/Zg1U2CZa#MTuAfqxwkvnTZiDqmWFqq5RcjxWRD82C0gvgy6MEqtc)
+- **v1.40**: [MEGA](https://mega.nz/file/t9t33JiY#Vy6mHYIrwDMDUxM80DsD8BHbmAev5oedd9kl0V_wIrs)

@@ -20,4 +20,6 @@
 	  * Linear field of view (FOV) captures video without the traditional fisheye
 	
 	
-				
+### Older firmwares not covered by the GitHub actions:
+
+Use [Softpedia](https://drivers.softpedia.com/dyn-search.php?search_term=Hero4+Silver&p_category=2)

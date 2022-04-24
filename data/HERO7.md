@@ -7,6 +7,7 @@
 	HERO7 Black v1.90
 	
 	  * General bug fixes. 
-	
-	
-				
+		
+### Older firmwares not covered by the GitHub actions:
+
+Use [Softpedia](https://drivers.softpedia.com/dyn-search.php?search_term=Hero7&p_category=2)

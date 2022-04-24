@@ -20,4 +20,6 @@
 	*Requires free upgrade to the new GoPro app on your phone. The GoPro app is available in the Apple® App Store® or Google Play™. 
 	
 	
-				
+### Older firmwares not covered by the GitHub actions:
+
+Use [Softpedia](https://drivers.softpedia.com/dyn-search.php?search_term=Hero5+Session&p_category=2)
