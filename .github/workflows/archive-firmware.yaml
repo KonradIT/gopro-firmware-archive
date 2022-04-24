@@ -1,0 +1,21 @@
+name: fwdownloader
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2.0.0
+        with:
+          python-version: "3.7"
+      - name: Install requirements
+        run: pip install requests html2text PyGithub
+      - name: Run script
+        run: python src/__init__.py

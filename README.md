@@ -2,8 +2,7 @@
 
 Archive for past GoPro firmwares.
 
-- [Secure Buckhorn](./data/Secure_Buckhorn.md)
-- [Coyote](./data/Coyote.md)
+
 - [Fusion](./data/Fusion.md)
 - [Hero (2018)](./data/Hero_2018.md)
 - [HERO7 White](./data/HERO7_White.md)
@@ -27,7 +26,4 @@ Archive for past GoPro firmwares.
 - [HERO8 Black](./data/HERO8_Black.md)
 - [HERO9 Black](./data/HERO9_Black.md)
 - [HERO Session](./data/HERO_Session.md)
-- [Sentinel](./data/Sentinel.md)
-- [Slingshot Bootloader](./data/Slingshot_Bootloader.md)
-- [Slingshot Main](./data/Slingshot_Main.md)
 - [Reunion](./data/Reunion.md)
