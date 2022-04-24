@@ -2,6 +2,9 @@ name: fwdownloader
 on:
   schedule:
     - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
 env:
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 jobs:
