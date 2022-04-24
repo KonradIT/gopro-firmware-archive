@@ -3,7 +3,6 @@ from datetime import date
 
 def get_day() -> str:
 	today = date.today()
-	return "20210323"
 	return today.strftime("%d%m%Y")
 
 def replace_line(file_name: str, line_num: int, text: str) -> None:

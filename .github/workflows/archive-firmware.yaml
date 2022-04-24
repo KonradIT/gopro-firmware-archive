@@ -20,4 +20,6 @@ jobs:
       - name: Install requirements
         run: pip install requests html2text PyGithub
       - name: Run script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python src/__init__.py
