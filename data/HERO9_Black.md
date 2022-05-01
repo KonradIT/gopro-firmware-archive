@@ -18,8 +18,8 @@
 	
 ### Older firmwares not covered by the GitHub actions:
 
-- **v1.21**: [Softpedia](https://drivers.softpedia.com/dyn-search.php?search_term=Hero8&p_category=2)
+- **v1.21**: [Softpedia](https://drivers.softpedia.com/get/SCANNER-Digital-CAMERA-WEBCAM/GoPro/GoPro-HERO9-Black-Camera-Firmware-1-21.shtml)
 - **v1.22**: [MEGA](https://mega.nz/file/M8VEgSLb#rvkBYETUgYhK4Yf9H7RdrOeZroiRRtaKeAy8sxf_-eA)
 - **v1.50**: [MEGA](https://mega.nz/file/0t1X1TgQ#Rycj8WamvcFycOXiOUWgUpui4w-LEBOMmtF__z4hwFY)
 - **v1.52**: [MEGA](https://mega.nz/file/5g0ijCqY#5XIbJNl0lUfNP6wTkk3R2uLF-jPsFYGH_po3jP0kHxQ)
-- **v1.60**: [Softpedia](https://drivers.softpedia.com/dyn-search.php?search_term=Hero8&p_category=2)
+- **v1.60**: [Softpedia](https://drivers.softpedia.com/get/SCANNER-Digital-CAMERA-WEBCAM/GoPro/GoPro-HERO9-Black-Camera-Firmware-1-60.shtml)
