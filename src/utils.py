@@ -1,9 +1,10 @@
-from datetime import date
+from datetime import date, timedelta
 
 
 def get_day() -> str:
     today = date.today()
-    return today.strftime("%d%m%Y")
+    today = today - timedelta(days=1)
+    return today.strftime("%Y%m%d")
 
 
 def replace_line(file_name: str, line_num: int, text: str) -> None:

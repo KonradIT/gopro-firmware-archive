@@ -16,6 +16,7 @@ if __name__ == "__main__":
     skip_cameras = ["CYT.01", "BCK.01", "SEN.01", "SLB.01", "SLS.01"]
     # Hydrate catalog entries
     gopro.get_catalog()
+    logger.info(">> date: %s", get_day())
     for camera in gopro.get_all_cameras():
 
         if camera.ModelString in skip_cameras:
