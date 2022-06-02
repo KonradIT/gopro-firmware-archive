@@ -67,6 +67,6 @@ if __name__ == "__main__":
                     camera.ReleaseDate,
                     camera.DownloadURL,
                     uploader.get_public_url(r),
-                    camera.ReleaseNotes.replace("\n", "\n\t"),
+                    camera.ReleaseNotes.replace("\n", "\n\t") + "\n",
                 ),
             )

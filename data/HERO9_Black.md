@@ -13,7 +13,8 @@
 	  * General bugs and performance improvements
 	
 	
-				- **01.70.00** - Date: *20220330*:
+				
+- **01.70.00** - Date: *20220330*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/55/53869dbb4104e73776872211a6d17bb2140c2903/HD9.01/camera_fw/01.70.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/HD9.01_01.70.00/HD9.01-01_70_00-20220330-firmware.zip
 	- **Release Notes**:
