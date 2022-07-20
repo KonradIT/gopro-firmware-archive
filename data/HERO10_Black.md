@@ -1,6 +1,16 @@
 # 📷 Firmware archives for HERO10 Black (H21.01):
 
-- **01.42.00** - Date: *20220601*:
+- **01.46.00** - Date: *20220714*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/57/a83f125da6767c7010bf5eef4bf13f0d04c30ebd/H21.01/camera_fw/01.46.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H21.01_01.46.00/H21.01-01_46_00-20220714-firmware.zip
+	- **Release Notes**:
+	HERO10 Black v1.46
+	
+	  * Support for new components in recently manufactured cameras
+	
+	
+
+				- **01.42.00** - Date: *20220601*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/57/2d5259cd890b577695031625d11145478775d73e/H21.01/camera_fw/01.42.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H21.01_01.42.00/H21.01-01_42_00-20220601-firmware.zip
 	- **Release Notes**:
