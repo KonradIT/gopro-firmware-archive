@@ -3,7 +3,7 @@ from datetime import date, timedelta
 
 def get_day() -> str:
     today = date.today()
-    today = today - timedelta(days=6)
+    # today = today - timedelta(days=1)
     return today.strftime("%Y%m%d")
 
 
