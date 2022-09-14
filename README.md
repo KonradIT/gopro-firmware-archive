@@ -26,3 +26,4 @@ Archive for past GoPro firmwares.
 - [HERO9 Black](./data/HERO9_Black.md)
 - [HERO10 Black](./data/HERO10_Black.md)
 - [Reunion](./data/Reunion.md)
+- [HERO11 Black](./data/HERO11_Black.md)
