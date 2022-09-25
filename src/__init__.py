@@ -4,6 +4,7 @@ import sys
 import logging
 import upload
 from os.path import exists
+from labs import LabsFirmwareDownloader
 
 if __name__ == "__main__":
 
@@ -61,6 +62,7 @@ if __name__ == "__main__":
 	- **Archive backup on GitHub repo**: %s
 	- **Release Notes**:
 	%s
+
 				"""
                 % (
                     camera.Version,
@@ -70,3 +72,6 @@ if __name__ == "__main__":
                     camera.ReleaseNotes.replace("\n", "\n\t") + "\n",
                 ),
             )
+
+    l = LabsFirmwareDownloader()
+    l.get()

@@ -10,7 +10,7 @@
 	
 	
 
-				- **01.42.00** - Date: *20220601*:
+- **01.42.00** - Date: *20220601*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/57/2d5259cd890b577695031625d11145478775d73e/H21.01/camera_fw/01.42.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H21.01_01.42.00/H21.01-01_42_00-20220601-firmware.zip
 	- **Release Notes**:
