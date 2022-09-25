@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: "3.7"
       - name: Install requirements
-        run: pip install requests html2text PyGithub beautifulsoup4
+        run: pip install requests html2text PyGithub beautifulsoup4 lxml
       - name: Run script
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}

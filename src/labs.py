@@ -81,7 +81,6 @@ class LabsFirmwareDownloader:
 						# is a camera
 						# v1.10.70 | Sept 2022
 						download_url = li.a.get('href')
-						print(download_url)
 						print(li.text.strip())
 						camera_name = li.text.strip().split(" v")[0]
 						version = li.text.strip().split(" | ")[0].split("v")[1]
