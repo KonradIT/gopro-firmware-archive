@@ -35,7 +35,7 @@ if __name__ == "__main__":
                 )
             with open("README.md", "a") as readme:
                 readme.write("\n- [%s](%s)" % (camera.Name, catalog_path))
-        if camera.ReleaseDate == get_day():
+        if camera.ReleaseDate == get_day() or camera.ReleaseDate == get_day(1):
             logger.info(
                 ">> new firmware released for camera %s (%s)"
                 % (camera.Name, camera.ReleaseDate)

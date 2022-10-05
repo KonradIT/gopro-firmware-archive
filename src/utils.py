@@ -1,9 +1,10 @@
 from datetime import date, timedelta
 
 
-def get_day() -> str:
+def get_day(days: int = None) -> str:
     today = date.today()
-    # today = today - timedelta(days=1)
+    if days != None:
+        today = today - timedelta(days=days)
     return today.strftime("%Y%m%d")
 
 
