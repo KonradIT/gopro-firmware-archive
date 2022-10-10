@@ -61,15 +61,14 @@ if __name__ == "__main__":
 	- **Original Firmware URL**: %s
 	- **Archive backup on GitHub repo**: %s
 	- **Release Notes**:
-	%s
-
-				"""
+            %s
+"""
                 % (
                     camera.Version,
                     camera.ReleaseDate,
                     camera.DownloadURL,
                     uploader.get_public_url(r),
-                    camera.ReleaseNotes.replace("\n", "\n\t") + "\n",
+                    camera.ReleaseNotes.replace("\n", "\n\t\t\t"),
                 ),
             )
 

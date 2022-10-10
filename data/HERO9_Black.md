@@ -4,31 +4,29 @@
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/55/1296c5817e23dca433d10dffea650bdbe8f14130/HD9.01/camera_fw/01.72.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/HD9.01_01.72.00/HD9.01-01_72_00-20220601-firmware.zip
 	- **Release Notes**:
-	HERO9 Black v1.72
-	
-	PERFORMANCE IMPROVEMENTS
-	
-	  * Fixes bug where display turns green and camera reboots when paired with multiple devices
-	  * Fixes multiple command and control bugs when camera is paired with Volta
-	  * General bugs and performance improvements
-	
-	
-				
+			HERO9 Black v1.72
+			
+			PERFORMANCE IMPROVEMENTS
+			
+			* Fixes bug where display turns green and camera reboots when paired with multiple devices
+			* Fixes multiple command and control bugs when camera is paired with Volta
+			* General bugs and performance improvements
+
 - **01.70.00** - Date: *20220330*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/55/53869dbb4104e73776872211a6d17bb2140c2903/HD9.01/camera_fw/01.70.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/HD9.01_01.70.00/HD9.01-01_70_00-20220330-firmware.zip
 	- **Release Notes**:
-	HERO9 Black update v1.7
-	
-	PERFORMANCE IMPROVEMENTS
-	
-	  * Adds camera support for Volta
-	
-	USABILITY IMPROVEMENTS
-	
-	  * Fixes a reliability issue with Burst photos uploading to the cloud with the Auto Upload feature
-	  * General bug fixes
-	
+			HERO9 Black update v1.7
+			
+			PERFORMANCE IMPROVEMENTS
+			
+			* Adds camera support for Volta
+			
+			USABILITY IMPROVEMENTS
+			
+			* Fixes a reliability issue with Burst photos uploading to the cloud with the Auto Upload feature
+			* General bug fixes
+			
 	
 ### Older firmwares not covered by the GitHub actions:
 
