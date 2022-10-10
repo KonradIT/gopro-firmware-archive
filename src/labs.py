@@ -1,10 +1,35 @@
 import requests
 from bs4 import BeautifulSoup
 from utils import get_day, replace_line
+import json
+import traceback
 
 class LabsFirmwareDownloader:
 	def __init__(self, url="https://community.gopro.com/s/article/GoPro-Labs?language=en_US"):
 		self.url = url
+		self.headers = {
+			'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0',
+			'Accept': '*/*',
+			'Accept-Language': 'en-US,en;q=0.5',
+			# 'Accept-Encoding': 'gzip, deflate, br',
+			'Referer': 'https://community.gopro.com/s/article/GoPro-Labs?language=en_US',
+			'X-SFDC-Page-Scope-Id': '0d304635-dfbe-4071-9f1d-e1d8c4c3251f',
+			'X-SFDC-Request-Id': '4778000000de860de6',
+			'X-SFDC-Page-Cache': 'ffa61ea01fcebb15',
+			'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
+			'Origin': 'https://community.gopro.com',
+			'DNT': '1',
+			'Connection': 'keep-alive',
+			# Requests sorts cookies= alphabetically
+			'Sec-Fetch-Dest': 'empty',
+			'Sec-Fetch-Mode': 'cors',
+			'Sec-Fetch-Site': 'same-origin',
+			# Requests doesn't support trailers
+			# 'TE': 'trailers',
+		}
+		self.fwuid = "5FtqNRNwJDpZNZFKfXyAmg"
+		self.session = requests.Session()
+		self.session.get(self.url, headers=self.headers)
 		
   
 	def __get_html_text(self, payload: dict) -> dict:
@@ -35,26 +60,7 @@ class LabsFirmwareDownloader:
 			'_ga': 'GA1.1.1987406895.1664134095',
 		}
 
-		headers = {
-			'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0',
-			'Accept': '*/*',
-			'Accept-Language': 'en-US,en;q=0.5',
-			# 'Accept-Encoding': 'gzip, deflate, br',
-			'Referer': 'https://community.gopro.com/s/article/GoPro-Labs?language=en_US',
-			'X-SFDC-Page-Scope-Id': '0d304635-dfbe-4071-9f1d-e1d8c4c3251f',
-			'X-SFDC-Request-Id': '4778000000de860de6',
-			'X-SFDC-Page-Cache': 'ffa61ea01fcebb15',
-			'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-			'Origin': 'https://community.gopro.com',
-			'DNT': '1',
-			'Connection': 'keep-alive',
-			# Requests sorts cookies= alphabetically
-			'Sec-Fetch-Dest': 'empty',
-			'Sec-Fetch-Mode': 'cors',
-			'Sec-Fetch-Site': 'same-origin',
-			# Requests doesn't support trailers
-			# 'TE': 'trailers',
-		}
+		
 		params = {
 			'r': '3',
 			'ui-force-components-controllers-recordGlobalValueProvider.RecordGvp.getRecord': '1',
@@ -62,14 +68,25 @@ class LabsFirmwareDownloader:
 
 		data = {
 			'message': '{"actions":[{"id":"282;a","descriptor":"serviceComponent://ui.force.components.controllers.recordGlobalValueProvider.RecordGvpController/ACTION$getRecord","callingDescriptor":"UNKNOWN","params":{"recordDescriptor":"ka13b000000QSAwAAO.undefined.FULL.null.null.Summary.VIEW.true.null.Summary,LastModifiedDate,Message__c,CreatedDate,Title,Id,LastModifiedById,SystemModstamp.null"}}]}',
-			'aura.context': '{"mode":"PROD","fwuid":"QPQi8lbYE8YujG6og6Dqgw","app":"siteforce:communityApp","loaded":{"APPLICATION@markup://siteforce:communityApp":"Zj1VcUXqZfCDWZ-Q5LxXcA","COMPONENT@markup://force:outputField":"yClNNqFExn4evLotb5Pplg","COMPONENT@markup://forceChatter:feedQbProxy":"fr0uC15O20eYx6JC5zAaiQ","COMPONENT@markup://forceCommunity:forceCommunityFeed":"vhVEZIiBt64So-_HjsnASw","COMPONENT@markup://instrumentation:o11yCoreCollector":"8089lZkrpgraL8-V8KZXNw"},"dn":[],"globals":{},"uad":false}',
+			'aura.context': '{"mode":"PROD","fwuid":"%s","app":"siteforce:communityApp","loaded":{"APPLICATION@markup://siteforce:communityApp":"Zj1VcUXqZfCDWZ-Q5LxXcA","COMPONENT@markup://force:outputField":"yClNNqFExn4evLotb5Pplg","COMPONENT@markup://forceChatter:feedQbProxy":"fr0uC15O20eYx6JC5zAaiQ","COMPONENT@markup://forceCommunity:forceCommunityFeed":"vhVEZIiBt64So-_HjsnASw","COMPONENT@markup://instrumentation:o11yCoreCollector":"8089lZkrpgraL8-V8KZXNw"},"dn":[],"globals":{},"uad":false}' % self.fwuid,
 			'aura.pageURI': '/s/article/GoPro-Labs?language=en_US',
 			'aura.token': 'null',
 		}
 
-		r = requests.post("https://community.gopro.com/s/sfsites/aura", params=params, cookies=cookies, headers=headers, data=data)
+		r = self.session.post("https://community.gopro.com/s/sfsites/aura", params=params, cookies=cookies, headers=self.headers, data=data)
   
-		loaded = r.json()
+		# Expect some errors...
+		try:
+			loaded = r.json()
+		except:
+			print(traceback.format_exc())
+			print(r.text)
+			assert "Framework has been updated. Expected:" in r.text
+			# New fwuid...
+			error_message = json.loads(r.text.replace("*/", "").replace("/*ERROR", ""))
+			self.fwuid = error_message.get("exceptionMessage").split("Expected: ")[1].split(" Actual:")[0]
+			print("Caught new FWUID, continuing\n")
+			return self.get()
 		dictionary = self.__get_html_text(loaded.get("context").get("globalValueProviders")[1].get("values").get("records"))
 		#print(dictionary.get("value"))
 		soup = BeautifulSoup(dictionary.get("value"), "lxml")
