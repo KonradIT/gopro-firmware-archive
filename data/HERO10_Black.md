@@ -1,5 +1,22 @@
 # 📷 Firmware archives for HERO10 Black (H21.01):
 
+- **01.50.00** - Date: *20221214*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/57/17b852744b1a1a1d948185a868b55614c1696cb0/H21.01/camera_fw/01.50.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H21.01_01.50.00/H21.01-01_50_00-20221214-firmware.zip
+	- **Release Notes**:
+            HERO10 Black v1.50
+			
+			NEW FEATURES
+			
+			  * Adds QuikCapture support for The Remote.
+			  * Adds QuikCapture support for Volta.
+			
+			BUG FIXES
+			
+			    * Wireless connectivity improvement.
+			    * Fixes bug that prevented live streaming to YouTube.
+			
+			
 - **01.46.00** - Date: *20220714*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/57/a83f125da6767c7010bf5eef4bf13f0d04c30ebd/H21.01/camera_fw/01.46.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H21.01_01.46.00/H21.01-01_46_00-20220714-firmware.zip

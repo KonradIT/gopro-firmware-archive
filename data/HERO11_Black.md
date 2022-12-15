@@ -1,5 +1,30 @@
 # 📷 Firmware archives for HERO11 Black (H22.01):
 
+- **02.01.00** - Date: *20221214*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/58/d414cf331ad9f1c5071af354209cd8b4afc22bd7/H22.01/camera_fw/02.01.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.01_02.01.00/H22.01-02_01_00-20221214-firmware.zip
+	- **Release Notes**:
+            HERO11 Black v2.01
+			
+			NEW FEATURES
+			
+			  * Adds Longest Battery video performance mode. 
+			  * Adds QuikCapture support for The Remote.
+			  * Adds QuikCapture support for Volta.
+			  * Updates settings for Easy and Pro controls.
+			
+			BUG FIXES
+			
+			    * Fixes bug that prevented auto upload to cloud from automatically starting.
+			    * Fixes bug that displays wrong charging indicator during charging.
+			    * Fixes bug that caused color artifacts in Star Trails.
+			    * Other general bug fixes.
+			
+			USABILITY IMPROVEMENTS
+			
+			    * General user interface and performance improvements.
+			
+			
 - **01.12.00** - Date: *20221004*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/58/f4a312963735892a40ecd0aa13e23116de0d3f12/H22.01/camera_fw/01.12.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.01_01.12.00/H22.01-01_12_00-20221004-firmware.zip
