@@ -1,5 +1,25 @@
 # 📷 Firmware archives for HERO11 Black Mini (H22.03):
 
+- **02.00.00** - Date: *20221222*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/60/a08b9bc7e48c96028e9174ced3d211bd1bc78717/H22.03/camera_fw/02.00.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.03_02.00.00/H22.03-02_00_00-20221222-firmware.zip
+	- **Release Notes**:
+            HERO11 Black Mini update v2.00
+			
+			NEW FEATURES
+			
+			  * Provides support for the Max Lens Mod
+			
+			USABILITY IMPROVEMENTS
+			
+			    * Changes the default out-of-box settings from Pro Controls to Easy Controls
+			    * Updates the user interface and organization of camera preferences menu
+			    * Adds a second confirmation screen before allowing the reformat of the microSD card
+			    * Adds functionality to long press Status/Pair button to place camera directly into pairing mode
+			    * Updates camera audible alerts and beeps behavior
+			    * General bug fixes and other user interface improvements
+			
+			
 - **01.10.00** - Date: *20221108*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/60/b45485e248744e321ddf964873044e98cad4a44f/H22.03/camera_fw/01.10.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.03_01.10.00/H22.03-01_10_00-20221108-firmware.zip
