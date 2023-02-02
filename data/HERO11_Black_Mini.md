@@ -1,5 +1,23 @@
 # 📷 Firmware archives for HERO11 Black Mini (H22.03):
 
+- **02.10.00** - Date: *20230201*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/60/5f9435ec88179024bcea0ce0d428d10adf95947c/H22.03/camera_fw/02.10.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.03_02.10.00/H22.03-02_10_00-20230201-firmware.zip
+	- **Release Notes**:
+            HERO11 Black Mini update v2.10
+			
+			NEW FEATURES
+			
+			  * Provides support for Pro 3.5mm Mic Adapter
+			
+			USABILITY IMPROVEMENTS
+			
+			    * Changes the default frame rates in Easy Controls from 60fps to 30fps
+			    * Adds more Auto Power Off settings for customers to configure in the Quik app
+			    * Removes a second confirmation screen before allowing the reformat of the microSD card
+			    * General bug fixes and other user interface improvements
+			
+			
 - **02.00.00** - Date: *20221222*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/60/a08b9bc7e48c96028e9174ced3d211bd1bc78717/H22.03/camera_fw/02.00.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.03_02.00.00/H22.03-02_00_00-20221222-firmware.zip
