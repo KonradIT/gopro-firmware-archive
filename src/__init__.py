@@ -4,7 +4,6 @@ import sys
 import logging
 import upload
 from os.path import exists
-from labs import LabsFirmwareDownloader
 
 if __name__ == "__main__":
 
@@ -71,6 +70,3 @@ if __name__ == "__main__":
                     camera.ReleaseNotes.replace("\n", "\n\t\t\t"),
                 ),
             )
-
-    l = LabsFirmwareDownloader()
-    l.get()
