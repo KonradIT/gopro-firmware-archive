@@ -1,5 +1,18 @@
 # 📷 Firmware archives for HERO11 Black (H22.01):
 
+- **02.10.00** - Date: *20230314*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/58/16f662fc9f39cefa297d6b2d0173313d8de3d503/H22.01/camera_fw/02.10.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.01_02.10.00/H22.01-02_10_00-20230314-firmware.zip
+	- **Release Notes**:
+            HERO11 Black v2.10
+			
+			USABILITY IMPROVEMENTS
+			
+			  * Fixes bug where exposure select and exposure lock does not function properly.
+			  * Fixes multiple bugs when camera is used with Volta without battery inserted.
+			  * Other general bug fixes and user interface improvements.
+			
+			
 - **02.01.00** - Date: *20221214*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/58/d414cf331ad9f1c5071af354209cd8b4afc22bd7/H22.01/camera_fw/02.01.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.01_02.01.00/H22.01-02_01_00-20221214-firmware.zip
