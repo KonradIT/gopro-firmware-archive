@@ -1,5 +1,20 @@
 # 📷 Firmware archives for HERO11 Black Mini (H22.03):
 
+- **02.20.00** - Date: *20230329*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/60/f1b465680ecebfac20999494a6299515065785b6/H22.03/camera_fw/02.20.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.03_02.20.00/H22.03-02_20_00-20230329-firmware.zip
+	- **Release Notes**:
+            HERO11 Black Mini Update v2.20
+			
+			NEW FEATURES
+			
+			    * Adds 10-bit HEVC support to 4K120
+			
+			USABILITY IMPROVEMENTS
+			
+			    * General Bug Fixes
+			
+			
 - **02.10.00** - Date: *20230201*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/60/5f9435ec88179024bcea0ce0d428d10adf95947c/H22.03/camera_fw/02.10.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.03_02.10.00/H22.03-02_10_00-20230201-firmware.zip
