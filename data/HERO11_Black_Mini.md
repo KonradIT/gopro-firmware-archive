@@ -1,5 +1,22 @@
 # 📷 Firmware archives for HERO11 Black Mini (H22.03):
 
+- **02.30.00** - Date: *20220510*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/60/db732b41b79b6d6afbba971dd8b74b70760e6607/H22.03/camera_fw/02.30.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.03_02.30.00/H22.03-02_30_00-20220510-firmware.zip
+	- **Release Notes**:
+            HERO11 Black Mini Update v2.30
+			
+			PERFORMANCE IMPROVEMENTS
+			
+			  * Resets default capture setting to 4K30 video with the SuperView digital lens after performing a factory reset.
+			
+			USABILITY IMPROVEMENTS
+			
+			  * Streamlines the user interface by removing Easy Control options.
+			  * Adds the ability to silence camera beeps using the camera buttons.
+			  * General Bug Fixes.
+			
+			
 - **02.20.00** - Date: *20230329*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/60/f1b465680ecebfac20999494a6299515065785b6/H22.03/camera_fw/02.20.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.03_02.20.00/H22.03-02_20_00-20230329-firmware.zip
