@@ -5,8 +5,17 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+    inputs:
+      customDate:
+        description: 'Date (yyyymmdd)'
+        required: true
+        default: ''
+
 env:
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+  INPUT_CUSTOM_DATE: ${{ github.event.inputs.customDate }}
+
 jobs:
   download:
     runs-on: ubuntu-latest
