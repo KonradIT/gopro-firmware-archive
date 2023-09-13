@@ -1,0 +1,27 @@
+# 📷 Firmware archives for HERO12 Black (H23.01):
+
+- **01.10.00** - Date: *20230912*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/62/eba8fd7d02d0ce63e91baef1057defc966afa94d/H23.01/camera_fw/01.10.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H23.01_01.10.00/H23.01-01_10_00-20230912-firmware.zip
+	- **Release Notes**:
+            HERO12 Black v1.10
+			
+			KEY FEATURES
+			
+			  * 5.3K60, 4K120, and 2.7K240 Video
+			  * 8x Slo-Mo
+			  * 27MP Photo
+			  * HyperSmooth 6.0 Video Stabilization
+			  * TimeWarp 3.0
+			  * 8:7 Aspect Ratio Photo + Video
+			  * HyperView Digital Lens
+			  * Bluetooth® Audio Support
+			  * 1080p Live Streaming
+			  * HDR Photo + Video
+			  * Night Effects
+			  * 10-Bit Color with GP-Log
+			  * Voice Control
+			  * Mod Ready
+			
+			
+
