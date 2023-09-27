@@ -1,5 +1,22 @@
 # 📷 Firmware archives for HERO12 Black (H23.01):
 
+- **01.12.00** - Date: *20230927*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/62/72d72633298051d1807ea21439d0200eff2cae57/H23.01/camera_fw/01.12.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H23.01_01.12.00/H23.01-01_12_00-20230927-firmware.zip
+	- **Release Notes**:
+            HERO12 Black v1.12
+			
+			BUG FIXES
+			
+			  * Fixes bug where audio is not captured with the Media Mod microphones when used with Bluetooth audio.
+			  * Fixes bug where photos are not provided with Night Effects video.
+			
+			USABILITY AND PERFORMANCE IMPROVEMENTS
+			
+			  * Improves Interval Photo quality when camera is transitioning between dark and bright scenes.
+			  * General user interface improvements. 
+			
+			
 - **01.10.00** - Date: *20230912*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/62/eba8fd7d02d0ce63e91baef1057defc966afa94d/H23.01/camera_fw/01.10.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H23.01_01.10.00/H23.01-01_10_00-20230912-firmware.zip
