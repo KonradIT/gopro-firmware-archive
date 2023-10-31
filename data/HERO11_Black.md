@@ -1,5 +1,16 @@
 # 📷 Firmware archives for HERO11 Black (H22.01):
 
+- **02.20.00** - Date: *20231030*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/58/3c17f345f8f81adad8697c276f7843582a8c7b87/H22.01/camera_fw/02.20.00/update.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.01_02.20.00/H22.01-02_20_00-20231030-firmware.zip
+	- **Release Notes**:
+            HERO11 Black v2.20
+			
+			NEW FEATURE
+			
+			  * Adds support for Waterproof Shutter Remote.
+			
+			
 - **02.12.00** - Date: *20230810*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/58/4b4664f1192a2b4ae7285495171315ea93f098b5/H22.01/camera_fw/02.12.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.01_02.12.00/H22.01-02_12_00-20230810-firmware.zip
