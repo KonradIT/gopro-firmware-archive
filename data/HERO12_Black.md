@@ -1,5 +1,27 @@
 # 📷 Firmware archives for HERO12 Black (H23.01):
 
+- **01.20.00** - Date: *20231031*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/62/012c91596675e3d4b16de8bc2ee30cb6f806783a/H23.01/camera_fw/01.20.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H23.01_01.20.00/H23.01-01_20_00-20231031-firmware.zip
+	- **Release Notes**:
+            HERO12 Black v1.20
+			
+			NEW FEATURES
+			
+			  * Adds support for Waterproof Shutter Remote.
+			  * Adds exposure control for GP-Log encoding.
+			
+			IMAGE QUALITY IMPROVEMENT
+			
+			  * Optimizes GP-Log tuning.
+			  * General user interface improvements. 
+			
+			USABILITY IMPROVEMENTS
+			
+			  * General user interface improvements.
+			  * General bug fixes.
+			
+			
 - **01.12.00** - Date: *20230927*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/62/72d72633298051d1807ea21439d0200eff2cae57/H23.01/camera_fw/01.12.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H23.01_01.12.00/H23.01-01_12_00-20230927-firmware.zip
