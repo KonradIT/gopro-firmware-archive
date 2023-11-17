@@ -1,5 +1,17 @@
 # 📷 Firmware archives for HERO12 Black (H23.01):
 
+- **01.30.00** - Date: *20231116*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/62/af3cce101d6ffa76ba68d352962b466b2e69af26/H23.01/camera_fw/01.30.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H23.01_01.30.00/H23.01-01_30_00-20231116-firmware.zip
+	- **Release Notes**:
+            HERO12 Black v1.30
+			
+			USABILITY IMPROVEMENTS
+			
+			  * General user interface improvements.
+			  * General bug fixes.
+			
+			
 - **01.20.00** - Date: *20231031*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/62/012c91596675e3d4b16de8bc2ee30cb6f806783a/H23.01/camera_fw/01.20.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H23.01_01.20.00/H23.01-01_20_00-20231031-firmware.zip
