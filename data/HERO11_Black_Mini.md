@@ -1,5 +1,20 @@
 # 📷 Firmware archives for HERO11 Black Mini (H22.03):
 
+- **02.40.00** - Date: *20231214*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/60/b65191d6423e7cd8f25754ba88a9c9782d2c24e0/H22.03/camera_fw/02.40.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.03_02.40.00/H22.03-02_40_00-20231214-firmware.zip
+	- **Release Notes**:
+            HERO11 Black Mini Update v2.40
+			
+			NEW FEATURE
+			
+			  * Adds support for Waterproof Shutter Remote.
+			
+			USABILITY IMPROVEMENTS
+			
+			  * General Bug Fixes.
+			
+			
 - **02.30.00** - Date: *20220510*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/60/db732b41b79b6d6afbba971dd8b74b70760e6607/H22.03/camera_fw/02.30.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.03_02.30.00/H22.03-02_30_00-20220510-firmware.zip

@@ -1,5 +1,28 @@
 # 📷 Firmware archives for HERO12 Black (H23.01):
 
+- **02.00.00** - Date: *20231214*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/62/faef567a022a2533fa5d0ad3e464c429459bba15/H23.01/camera_fw/02.00.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H23.01_02.00.00/H23.01-02_00_00-20231214-firmware.zip
+	- **Release Notes**:
+            HERO12 Black v2.0
+			
+			NEW FEATURES
+			
+			  * Enables renaming of custom presets using the GoPro Quik app.
+			  * Adds HyperSmooth AutoBoost option when using Max Lens Mod 2.0.
+			  * Adds Linear lens option when using Max Lens Mod 2.0.
+			  * Adds Max HyperView lens option for TimeWarp when using Max Lens Mod 2.0.
+			
+			IMAGE QUALITY IMPROVEMENT
+			
+			  * Optimizes GP-Log tuning with wide-gamut color space.
+			
+			USABILITY IMPROVEMENTS
+			
+			  * General user interface improvements.
+			  * General bug fixes.
+			
+			
 - **01.30.00** - Date: *20231116*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/62/af3cce101d6ffa76ba68d352962b466b2e69af26/H23.01/camera_fw/01.30.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H23.01_01.30.00/H23.01-01_30_00-20231116-firmware.zip
