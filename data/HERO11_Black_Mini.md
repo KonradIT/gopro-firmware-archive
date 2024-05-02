@@ -1,5 +1,20 @@
 # 📷 Firmware archives for HERO11 Black Mini (H22.03):
 
+- **02.50.00** - Date: *20240502*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/60/215049e8fe090616943d4d39ab883319fe37f164/H22.03/camera_fw/02.50.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.03_02.50.00/H22.03-02_50_00-20240502-firmware.zip
+	- **Release Notes**:
+            HERO11 Black Mini Update v2.50
+			
+			NEW FEATURES
+			
+			    * Adds 4K 30/25/24 support in 8:7 aspect ratio.
+			
+			USABILITY IMPROVEMENTS
+			
+			    * General Bug Fixes.
+			
+			
 - **02.40.00** - Date: *20231214*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/60/b65191d6423e7cd8f25754ba88a9c9782d2c24e0/H22.03/camera_fw/02.40.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.03_02.40.00/H22.03-02_40_00-20231214-firmware.zip
