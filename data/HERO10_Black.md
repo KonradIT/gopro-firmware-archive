@@ -1,5 +1,16 @@
 # 📷 Firmware archives for HERO10 Black (H21.01):
 
+- **01.62.00** - Date: *20240523*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/57/cb7a0d0cc5420fbe37d3bd024e572f4995ac0e8e/H21.01/camera_fw/01.62.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H21.01_01.62.00/H21.01-01_62_00-20240523-firmware.zip
+	- **Release Notes**:
+            HERO10 Black v1.62
+			
+			NEW FEATURE
+			
+			  * Adds support for Waterproof Shutter Remote.
+			
+			
 - **01.60.00** - Date: *20240404*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/57/ee2a73393ac7331e32e19875a77ccb5267d99216/H21.01/camera_fw/01.60.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H21.01_01.60.00/H21.01-01_60_00-20240404-firmware.zip
