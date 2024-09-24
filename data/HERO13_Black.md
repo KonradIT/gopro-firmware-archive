@@ -1,5 +1,21 @@
 # 📷 Firmware archives for HERO13 Black (H24.01):
 
+- **01.12.00** - Date: *20240924*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/65/d1414ff8be3d202724ff76b198af3711a5982e31/H24.01/camera_fw/01.12.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H24.01_01.12.00/H24.01-01_12_00-20240924-firmware.zip
+	- **Release Notes**:
+            HERO13 Black v1.12
+			
+			BUG FIXES
+			
+			  * Fixes bug where first second of HLG video has dark exposure.
+			
+			USABILITY AND PERFORMANCE IMPROVEMENTS
+			
+			  * Improves ND filter suggestion when using HB-Series ND Filters.
+			  * General user interface improvements. 
+			
+			
 - **01.10.00** - Date: *20240910*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/65/da55469cc48afb80d22a38d56819b258ca8268ce/H24.01/camera_fw/01.10.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H24.01_01.10.00/H24.01-01_10_00-20240910-firmware.zip
