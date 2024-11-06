@@ -1,5 +1,20 @@
 # 📷 Firmware archives for HERO12 Black (H23.01):
 
+- **02.30.00** - Date: *20241105*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/62/c9c1bb27d8d39cf0426331b1a063e3c96f8e13b7/H23.01/camera_fw/02.30.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H23.01_02.30.00/H23.01-02_30_00-20241105-firmware.zip
+	- **Release Notes**:
+            USABILITY IMPROVEMENTS
+			
+			  * Optimizes performance for longer runtimes when shooting in hot conditions.
+			  * Improves orientation detection when recording with QuikCapture.
+			  * Adds ability to adjust Protune settings while live streaming. 
+			
+			BUG FIX
+			
+			  * Fixes an issue where The Remote was unable to connect to multiple cameras after wake-up. 
+			
+			
 - **02.20.00** - Date: *20240327*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/62/f7a6614cdedcbec78243433559413ed599d34039/H23.01/camera_fw/02.20.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H23.01_02.20.00/H23.01-02_20_00-20240327-firmware.zip
