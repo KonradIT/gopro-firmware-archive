@@ -1,5 +1,16 @@
 # 📷 Firmware archives for HERO11 Black (H22.01):
 
+- **02.32.00** - Date: *20250113*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/58/f57ec503c833d28c5eccfa13fcbd20d61a8c4d25/H22.01/camera_fw/02.32.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.01_02.32.00/H22.01-02_32_00-20250113-firmware.zip
+	- **Release Notes**:
+            HERO11 Black v2.32
+			
+			BUG FIX
+			
+			  * General bug fixes.
+			
+			
 - **02.30.00** - Date: *20240314*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/58/d8df7328a9d6408f60c39fc8957342dfcba94376/H22.01/camera_fw/02.30.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H22.01_02.30.00/H22.01-02_30_00-20240314-firmware.zip
