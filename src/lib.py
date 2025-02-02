@@ -49,7 +49,7 @@ class FirmwareCatalog:
     def get_all_cameras(self):
         for cam in self.__payload:
             yield Firmware(
-                Version=cam["version"],
+                Version=cam["version"].replace("..", "."),
                 ReleaseDate=cam["release_date"],
                 ReleaseNotes=html2text.html2text(cam["release_html"]),
                 DownloadURL=cam["url"],

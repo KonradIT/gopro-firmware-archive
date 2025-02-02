@@ -31,7 +31,7 @@ jobs:
       - name: Run script
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-        run: python src/__init__.py
+        run: python src/main.py
       - uses: EndBug/add-and-commit@v7
         with:
           author_name: GitHub Action

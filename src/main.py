@@ -6,7 +6,6 @@ import upload
 from os.path import exists
 
 if __name__ == "__main__":
-
     logging.basicConfig(stream=sys.stdout, filemode="w", level=logging.INFO)
 
     logger = logging.getLogger()
