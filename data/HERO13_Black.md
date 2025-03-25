@@ -1,5 +1,31 @@
 # 📷 Firmware archives for HERO13 Black (H24.01):
 
+- **02.00.00** - Date: *20250324*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/65/d1f6ecda5e692e1c03baf7609e77f877e308611d/H24.01/camera_fw/02.00.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H24.01_02.00.00/H24.01-02_00_00-20250324-firmware.zip
+	- **Release Notes**:
+            HERO13 Black v2.00
+			
+			NEW FEATURES
+			
+			  * Adds support for Anamorphic Lens Mod (HB-Series | Cinematic Ultra Wide Angle Lens).
+			
+			IMAGE QUALITY IMPROVEMENTS
+			
+			  * Increases bitrate for HyperView and SuperView digital lenses
+			  * Updates auto white balance tuning for improved underwater capture
+			  * Adds new high bitrate options for time lapse modes
+			  * Optimizes exposure tuning for photos and timelapse capture when using ND Filters (HB-Series | ND4 / ND8 / ND16 / ND32)
+			
+			USABILITY IMPROVEMENTS
+			
+			  * Enables camera to upload to GoPro Cloud without being connected to USB power
+			  * Updates playback controls for better content review
+			  * Streamlines custom preset creation process
+			  * General user interface improvements
+			  * General bug fixes
+			
+			
 - **01.30.00** - Date: *20241120*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/65/56b189a94d30b464df90fd3ce982476cc4de9509/H24.01/camera_fw/01.30.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H24.01_01.30.00/H24.01-01_30_00-20241120-firmware.zip
