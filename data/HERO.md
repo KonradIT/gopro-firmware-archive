@@ -1,5 +1,29 @@
 # 📷 Firmware archives for HERO (H24.03):
 
+- **02.20.00** - Date: *20250508*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/66/56c4de16f4cfc8d0f2936f67095e0f18f023c82f/H24.03/camera_fw/02.20.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H24.03_02.20.00/H24.03-02_20_00-20250508-firmware.zip
+	- **Release Notes**:
+            HERO v2.20
+			
+			PERFORMANCE IMPROVEMENTS
+			
+			* Makes QuikCapture quicker by reducing the time it takes to start recording after the shutter button is pressed.
+			
+			USABILITY IMPROVEMENTS
+			
+			* Resolves an issue that arose when the camera’s date was set to February (including Leap Year).
+			* Fixes a bug where using the daylight savings setting could clear the camera’s month/day/year.
+			* Corrects an issue where dashboard text could be truncated when using SD cards with a capacity greater than 100GB.
+			* Addresses an issue where playback animations could be incorrectly displayed when the camera is rotated.
+			* Fixes an issue where the dashboard icons may be incorrectly ‘greyed out’ when the camera is rotated.
+			* Improves user interface performance during playback including when swiping up or down, deleting clips and more.
+			* Corrects issues when using the screen lock feature that can occur when it appears, when it is dismissed, when it is used with voice commands and when powering off.
+			* Fixes a bug where the camera could respond to a shutter press while the camera is recovering files.
+			* Corrects an issue where the ‘Cloud Auto Upload in Progress’ message might be displayed in the GoPro Quik app even after the upload has been cancelled.
+			* Other bug fixes and improvements.
+			
+			
 - **02.10.00** - Date: *20250129*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/66/03053a6d5b6f58a2215d69bc74140782022d6259/H24.03/camera_fw/02.10..00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H24.03_02.10.00/H24.03-02_10_00-20250129-firmware.zip
