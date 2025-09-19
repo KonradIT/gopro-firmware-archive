@@ -31,7 +31,7 @@ class Firmware:
 class FirmwareCatalog:
     def __init__(
         self,
-        endpoint: str = "https://firmware-api.gopro.com/v2/firmware/catalog",
+        endpoint: str = "https://api.gopro.com/firmware/v2/catalog",
         timeout: int = 1,
     ):
         self.endpoint = endpoint
