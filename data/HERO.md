@@ -1,5 +1,17 @@
 # 📷 Firmware archives for HERO (H24.03):
 
+- **02.30.00** - Date: *20251029*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/66/1fecf89cb00e1ca50d268ea571be5bb71a0dd759/H24.03/camera_fw/02.30.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H24.03_02.30.00/H24.03-02_30_00-20251029-firmware.zip
+	- **Release Notes**:
+            HERO v2.30
+			
+			GENERAL UPDATE
+			
+			  * Security update
+			  * Other bug fixes and improvements
+			
+			
 - **02.20.00** - Date: *20250508*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/66/56c4de16f4cfc8d0f2936f67095e0f18f023c82f/H24.03/camera_fw/02.20.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H24.03_02.20.00/H24.03-02_20_00-20250508-firmware.zip
