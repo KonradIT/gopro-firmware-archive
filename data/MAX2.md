@@ -1,5 +1,22 @@
 # 📷 Firmware archives for MAX2 (H24.02):
 
+- **01.20.00** - Date: *20251119*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/64/6341c445967c935d562a21c9246aa6358eb82024/H24.02/camera_fw/01.20.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H24.02_01.20.00/H24.02-01_20_00-20251119-firmware.zip
+	- **Release Notes**:
+            NEW FEATURES:
+			
+			  * Adds new 360 video recording modes 5.6K24 and 4K30/25/24.
+			  * Makes the 4K100 360 video recording mode available in NTSC regions.
+			  * Introduces Blur Reduction setting for 360 video modes that reduces the amount of motion blur in low-light videos.
+			  * Introduces Denoise image setting to all camera modes to control the level of denoise applied to the media.
+			
+			USABILITY IMPROVEMENTS:
+			
+			  * Updates customer messaging when using POV or Selfie modes for the first time.
+			  * Includes general bug fixes and other usability improvements.
+			
+			
 - **01.14.00** - Date: *20251020*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/64/20eeefaf9dde7741aa3aad29eeab898b97b75dbf/H24.02/camera_fw/01.14.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H24.02_01.14.00/H24.02-01_14_00-20251020-firmware.zip
