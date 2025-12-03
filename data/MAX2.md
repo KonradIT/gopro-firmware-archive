@@ -1,5 +1,14 @@
 # 📷 Firmware archives for MAX2 (H24.02):
 
+- **01.22.00** - Date: *20251202*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/64/c8f021317d055c742ae40aadc913d195bf00db9b/H24.02/camera_fw/01.22.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H24.02_01.22.00/H24.02-01_22_00-20251202-firmware.zip
+	- **Release Notes**:
+            BUG FIXES:
+			
+			  * Fixes an issue where specific videos captured in 4K100 were not stabilized correctly in the Quik app.
+			
+			
 - **01.20.00** - Date: *20251119*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/64/6341c445967c935d562a21c9246aa6358eb82024/H24.02/camera_fw/01.20.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H24.02_01.20.00/H24.02-01_20_00-20251119-firmware.zip
