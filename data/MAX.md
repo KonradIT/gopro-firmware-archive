@@ -1,5 +1,16 @@
 # 📷 Firmware archives for MAX (H19.03):
 
+- **02.06.00** - Date: *20260212*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/51/d21b741cd7fab287cd2f3eb37bc5ee544b348fac/H19.03/camera_fw/02.06.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H19.03_02.06.00/H19.03-02_06_00-20260212-firmware.zip
+	- **Release Notes**:
+            MAX (2025) v2.06 | February 12, 2026 
+			
+			GENERAL UPDATE
+			
+			  * Security update
+			
+			
 - **02.02.00** - Date: *20240709*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/51/589c68fb3fdac699d5275633e78dc675fb256617/H19.03/camera_fw/02.02.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H19.03_02.02.00/H19.03-02_02_00-20240709-firmware.zip
