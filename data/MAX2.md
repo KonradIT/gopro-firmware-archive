@@ -1,5 +1,21 @@
 # 📷 Firmware archives for MAX2 (H24.02):
 
+- **01.30.00** - Date: *20260317*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/64/baeea4b1933f7fdb06d85595801041e8d77335cc/H24.02/camera_fw/01.30.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H24.02_01.30.00/H24.02-01_30_00-20260317-firmware.zip
+	- **Release Notes**:
+            MAX2 v1.30 | March 17, 2026
+			
+			NEW FEATURES:
+			
+			  * Introduces Maximum Bit Rate setting for recording with 200Mbps bit rates.
+			  * Introduces Blur Reduction setting for single lens video modes that reduces the amount of motion blur in low-light videos.
+			  * Adds 10-Bit color to all Time Lapse recording modes.
+			  * Adds GP-Log encoding profiles to all Time Lapse recording modes.
+			  * Adds 10-Bit color to all Time Lapse recording modes.
+			  * Adds Anti-Flickering toggle to quickly change between 60Hz and 50Hz shutter speeds and remove flickering.
+			
+			
 - **01.22.00** - Date: *20251202*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/64/c8f021317d055c742ae40aadc913d195bf00db9b/H24.02/camera_fw/01.22.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H24.02_01.22.00/H24.02-01_22_00-20251202-firmware.zip
