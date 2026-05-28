@@ -33,3 +33,5 @@ Archive for past GoPro firmwares.
 - [HERO](./data/HERO.md)
 - [MAX2](./data/MAX2.md)
 - [LIT HERO](./data/LIT_HERO.md)
+- [MISSION 1 PRO](./data/MISSION_1_PRO.md)
+- [MISSION 1](./data/MISSION_1.md)
