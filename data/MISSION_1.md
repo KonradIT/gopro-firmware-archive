@@ -1,5 +1,17 @@
 # 📷 Firmware archives for MISSION 1 (H26.02):
 
+- **01.20.00** - Date: *20260616*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/71/f4637fbeef420cebfd03a42cc5390b1949417087/H26.02/camera_fw/01.20.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H26.02_01.20.00/H26.02-01_20_00-20260616-firmware.zip
+	- **Release Notes**:
+            MISSION 1 v1.20 | June 16, 2026
+			
+			USABILITY IMPROVEMENTS
+			
+			  * General user interface improvements 
+			  * General bug fixes
+			
+			
 - **01.10.00** - Date: *20260527*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/71/c266a4c1e15dc3259f5f8a39df4df355956d5dac/H26.02/camera_fw/01.10.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H26.02_01.10.00/H26.02-01_10_00-20260527-firmware.zip
