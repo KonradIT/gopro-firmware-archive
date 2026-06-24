@@ -1,5 +1,16 @@
 # 📷 Firmware archives for MISSION 1 PRO (H26.01):
 
+- **01.22.00** - Date: *20260623*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/69/2558173a1f6276807903a9c8770afb7059374b4b/H26.01/camera_fw/01.22.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H26.01_01.22.00/H26.01-01_22_00-20260623-firmware.zip
+	- **Release Notes**:
+            MISSION 1 PRO v1.22
+			
+			NEW FEATURE
+			
+			  * Adds full support for GoPro Wireless Mic System 
+			
+			
 - **01.20.00** - Date: *20260616*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/69/10cb4755ec3c2408eeb343e4c51454cf1a1c47eb/H26.01/camera_fw/01.20.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H26.01_01.20.00/H26.01-01_20_00-20260616-firmware.zip
