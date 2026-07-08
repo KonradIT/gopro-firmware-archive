@@ -1,5 +1,22 @@
 # 📷 Firmware archives for MISSION 1 PRO (H26.01):
 
+- **01.30.00** - Date: *20260707*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/69/28df1891e27702df632b42deb87baf7ecd6f1c05/H26.01/camera_fw/01.30.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H26.01_01.30.00/H26.01-01_30_00-20260707-firmware.zip
+	- **Release Notes**:
+            MISSION 1 PRO v1.30
+			
+			BUG FIXES AND USABILITY IMPROVEMENTS
+			
+			  * Improves in-camera playback experience
+			  * Improves stabilization performance with vertical video capture
+			  * Addresses camera lag issues during Star Trails capture
+			  * Resolves audio sync issue when recording for long duration
+			  * Resolves artifact issues when shooting in low ISO in 8K 
+			  * Other general user interface improvements 
+			  * Other general bug fixes
+			
+			
 - **01.22.00** - Date: *20260623*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/69/2558173a1f6276807903a9c8770afb7059374b4b/H26.01/camera_fw/01.22.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H26.01_01.22.00/H26.01-01_22_00-20260623-firmware.zip
