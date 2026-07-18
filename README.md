@@ -35,3 +35,4 @@ Archive for past GoPro firmwares.
 - [LIT HERO](./data/LIT_HERO.md)
 - [MISSION 1 PRO](./data/MISSION_1_PRO.md)
 - [MISSION 1](./data/MISSION_1.md)
+- [Wireless Mic](./data/Wireless_Mic.md)
