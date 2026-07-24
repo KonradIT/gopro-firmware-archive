@@ -1,5 +1,29 @@
 # 📷 Firmware archives for MISSION 1 PRO (H26.01):
 
+- **02.00.00** - Date: *20260723*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/69/b54a20292a775a0bb16fba5639354a11e2e5cdff/H26.01/camera_fw/02.00.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H26.01_02.00.00/H26.01-02_00_00-20260723-firmware.zip
+	- **Release Notes**:
+            MISSION 1 PRO v2.0
+			
+			NEW FEATURES
+			
+			  * Adds support for Media Mod (Multi-Pattern Mic + Media Ports Frame) for MISSION 1 Series
+			  * Adds support for Volta 2 (Weather-Resistant Battery Grip | Tripod | Remote)
+			  * Enables video out using USB-C to DisplayPort / HDMI cables and adapters
+			
+			IMAGE QUALITY IMPROVEMENTS
+			
+			  * Improves contrast and tone tuning in Dive mode
+			  * Improves color accuracy, including fixes for oversaturated colors and skies
+			  * Improves cinematic motion blur tuning
+			
+			USABILITY IMPROVEMENTS
+			
+			  * General user interface improvements
+			  * General bug fixes
+			
+			
 - **01.30.00** - Date: *20260707*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/69/28df1891e27702df632b42deb87baf7ecd6f1c05/H26.01/camera_fw/01.30.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H26.01_01.30.00/H26.01-01_30_00-20260707-firmware.zip
