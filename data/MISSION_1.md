@@ -1,5 +1,16 @@
 # 📷 Firmware archives for MISSION 1 (H26.02):
 
+- **02.02.00** - Date: *20260810*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/71/45b78beb5eeff2d711da6166ed5e5225e2fa93d3/H26.02/camera_fw/02.02.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H26.02_02.02.00/H26.02-02_02_00-20260810-firmware.zip
+	- **Release Notes**:
+            MISSION 1 v2.02
+			
+			BUG FIX
+			
+			  * Improves audio consistency by fixing a bug that could sometimes result in stereo sound loss or drastic volume shifts during recording
+			
+			
 - **01.30.00** - Date: *20260707*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/71/5a65058faf0289e6af1a003044d9e4e67c60b9e3/H26.02/camera_fw/01.30.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H26.02_01.30.00/H26.02-01_30_00-20260707-firmware.zip
