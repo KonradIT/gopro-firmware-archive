@@ -1,5 +1,21 @@
 # 📷 Firmware archives for MISSION 1 PRO ILS (H26.04):
 
+- **04.01.00** - Date: *20261013*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/74/8a9d1defcf0039b5009b644f83a915c492b36524/H26.03/camera_fw/04.01.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H26.03_04.01.00/H26.03-04_01_00-20261013-firmware.zip
+	- **Release Notes**:
+            MISSION 1 PRO ILS v4.01 | October 13, 2026
+			
+			NEW FEATURES
+			
+			  * Adds rapid photo and continuous shutter functionality for standard and RAW photos
+			
+			BUG FIXES AND USABILITY IMPROVEMENTS
+			
+			  * Improves playback experience in media gallery
+			  * General bug fixes
+			
+			
 - **03.00.00** - Date: *20260902*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/74/77b9bcd4c5689d6e7a3194d0aed99b734a3bb57b/H26.03/camera_fw/03.00.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H26.03_03.00.00/H26.03-03_00_00-20260902-firmware.zip
