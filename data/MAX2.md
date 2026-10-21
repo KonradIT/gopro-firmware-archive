@@ -1,5 +1,16 @@
 # 📷 Firmware archives for MAX2 (H24.02):
 
+- **01.34.00** - Date: *20261020*:
+	- **Original Firmware URL**: https://device-firmware.gp-static.com/64/173569153ba9db14e8b3628485afe479235ba6ad/H24.02/camera_fw/01.34.00/UPDATE.zip
+	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H24.02_01.34.00/H24.02-01_34_00-20261020-firmware.zip
+	- **Release Notes**:
+            MAX2 v1.34
+			
+			GENERAL UPDATE
+			
+			  * Security update
+			
+			
 - **01.30.00** - Date: *20260317*:
 	- **Original Firmware URL**: https://device-firmware.gp-static.com/64/baeea4b1933f7fdb06d85595801041e8d77335cc/H24.02/camera_fw/01.30.00/UPDATE.zip
 	- **Archive backup on GitHub repo**: https://github.com/KonradIT/gopro-firmware-archive/releases/download/H24.02_01.30.00/H24.02-01_30_00-20260317-firmware.zip
